@@ -2,7 +2,7 @@
 <h3 align="center">An enthusiastic software engineering undergraduate</h3>
 <img align = "center" alt = "Coding" src = "https://i.pinimg.com/originals/0b/5c/c0/0b5cc024841accd9a31a7b2daeb0e57b.gif">
 
-- 🌱 I’m currently learning **DevOps principles, cloud foundations, Reat.js**
+- 🌱 I’m currently learning **DevOps principles, cloud foundations, React.js**
 
 - 📫 How to reach me **ruhansa.sandanima@gmail.com**
 
